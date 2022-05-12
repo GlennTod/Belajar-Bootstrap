@@ -1,2 +1,2 @@
-# Belajar-Bootstrap.githu.io
+# Belajar-Bootstrap
 Bootstrap adalah gabungan dari hmtl,css,js
